@@ -1,0 +1,6 @@
+mysql-connector
+pandas
+numpy
+sqlalchemy
+flask
+flask_cors
